@@ -1,4 +1,4 @@
-# Devil-s-Tone-Text-to-Music-generator
+# Devil's-Tone-Text-to-Music-generator
 
 
 Devil's Tone is a Text-to-Music generator project that transforms textual input into musical compositions. This tool leverages cutting-edge natural language processing and music synthesis techniques to create unique and immersive musical experiences based on written content.
